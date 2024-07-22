@@ -44,7 +44,7 @@ return {
       -- The mapping is set to other key, see custom/lua/mappings
       -- or run <leader>ch to see copilot mapping section
       vim.g.copilot_filetypes = {
-        ["*"       ] = true,
+        ["*"] = true,
         ["markdown"] = false,
       }
     end
