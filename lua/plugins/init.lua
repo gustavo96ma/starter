@@ -69,8 +69,8 @@ return {
     opts = {
       workspaces = {
         {
-          name = "pessoal",
-          path = "~/Documents/vaults/pessoal",
+          name = "second-brain",
+          path = "~/Documents/vaults/second-brain",
         },
       },
     },
